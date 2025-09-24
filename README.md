@@ -1,2 +1,2 @@
-# recipe-api
-Recipe API Project
+# Login Feature Coming Soon
+data requirements: email, firstName, lastName, profilePic
